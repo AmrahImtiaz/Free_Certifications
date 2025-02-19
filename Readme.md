@@ -1,3 +1,14 @@
+# FREE SWAGS WITH DEADLINES: 
+
+| 🎉 Company | 🏆 How to Earn | 🎁 Swag Items | 🔗 Link |
+|-----------|--------------|--------------|---------|
+| DigitalOcean | Contribute to Hacktoberfest | T-shirts, Stickers | [Claim](https://hacktoberfest.com/) |
+| GitHub | Join GitHub Campus Experts | Stickers, T-shirts | [Apply](https://education.github.com/experts) |
+| Microsoft | Complete Cloud Challenges | T-shirts, Hoodies, Stickers | [Join](https://learn.microsoft.com/en-us/training/challenges/) |
+| Google | Participate in Google Developer Events | T-shirts, Bottles, Bags | [Check](https://developers.google.com/events/) |
+| MLH (Major League Hacking) | Attend hackathons | T-shirts, Stickers, Socks | [Register](https://mlh.io/) |
+| Dev.to | Write technical articles | Stickers, T-shirts | [Start Writing](https://dev.to/) |
+
 ![img-certificates](https://github.com/user-attachments/assets/c9dcbc21-1c33-4aa5-9fee-ab2fe144b084)
 
 # 🎓 Free Certifications Repository   
