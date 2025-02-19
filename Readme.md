@@ -5,10 +5,10 @@ A curated list of free certification programs to boost your skills! 🚀
 
 ## 📜 Certification List  
 
-| 🏆 Certification | Description | 🏢 Provider | 🔗 Link | 🆓 Cost |
-|-----------------|------------|------------|---------|--------|
-| AWS Cloud Practitioner | | AWS | [Enroll](https://www.aws.training/) | ✅ Free |
-| Google Cloud Digital Leader | | Google | [Enroll](https://cloud.google.com/training/) | ✅ Free |
-| Microsoft Azure Fundamentals | | Microsoft | [Enroll](https://learn.microsoft.com/en-us/certifications/) | ✅ Free |
+| 🏆 Certification | Description | 🏢 Provider | 🔗 Link |
+|-----------------|------------|------------|---------|
+| AWS Cloud Practitioner | | AWS | [Enroll](https://www.aws.training/) | 
+| AWS Cloud Practitioner | | AWS | [Enroll](https://www.aws.training/) | 
+| Google Cloud Digital Leader | | Google | [Enroll](https://cloud.google.com/training/) | 
+| Microsoft Azure Fundamentals | | Microsoft | [Enroll](https://learn.microsoft.com/en-us/certifications/) |
 
-🔄 **Regularly updated!** Have a free cert to add? Open a PR! 🤝  
