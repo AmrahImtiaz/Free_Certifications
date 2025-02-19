@@ -3,3 +3,8 @@
 FREE CERTIFICATIONS:
 
 
+| Feature  | Description  | Status  |
+|----------|-------------|---------|
+| 🚀 Feature 1 | Explanation of feature 1 | ✅ Completed |
+| 🎯 Feature 2 | Explanation of feature 2 | 🔄 In Progress |
+| ⚡ Feature 3 | Explanation of feature 3 | ❌ Not Started |
