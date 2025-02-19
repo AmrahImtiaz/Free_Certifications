@@ -1,10 +1,14 @@
 ![img-certificates](https://github.com/user-attachments/assets/c9dcbc21-1c33-4aa5-9fee-ab2fe144b084)
+# 🎓 Free Certifications Repository  
 
-FREE CERTIFICATIONS:
+A curated list of free certification programs to boost your skills! 🚀  
 
+## 📜 Certification List  
 
-| Feature  | Description  | Status  |
-|----------|-------------|---------|
-| 🚀 Feature 1 | Explanation of feature 1 | ✅ Completed |
-| 🎯 Feature 2 | Explanation of feature 2 | 🔄 In Progress |
-| ⚡ Feature 3 | Explanation of feature 3 | ❌ Not Started |
+| 🏆 Certification | Description | 🏢 Provider | 🔗 Link | 🆓 Cost |
+|-----------------|------------|---------|--------|
+| AWS Cloud Practitioner | | AWS | [Enroll](https://www.aws.training/) | ✅ Free |
+| Google Cloud Digital Leader | | Google | [Enroll](https://cloud.google.com/training/) | ✅ Free |
+| Microsoft Azure Fundamentals | | Microsoft | [Enroll](https://learn.microsoft.com/en-us/certifications/) | ✅ Free |
+
+🔄 **Regularly updated!** Have a free cert to add? Open a PR! 🤝  
